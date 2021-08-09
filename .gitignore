@@ -2,3 +2,4 @@
 *.obj
 .ccls
 .ccls-cache/
+*.gb
